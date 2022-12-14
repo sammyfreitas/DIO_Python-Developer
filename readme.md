@@ -13,7 +13,7 @@ Venha mergulhar no mundo da programação com Python! Atualmente Python é uma d
 2 desafios de código
 0 lives
 
-## Módulo I - Fundamentos de Python (8 atividades) - OK
+## Módulo I - Fundamentos de Python (8 atividades) - Concluído em 13/12/22
 * Ambiente de Desenvolvimento e Primeiros Passos com Python (Básico, 1h)
 * Conhecendo a Linguagem de Programação Python (Básico, 2h)
 * Tipos de Operadores com Python (Básico, 2h)
