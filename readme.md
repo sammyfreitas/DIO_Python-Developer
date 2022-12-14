@@ -1,4 +1,4 @@
-# DIO_PYTHONDEV
+# DIO_Python-Developer
 
 https://web.dio.me/track/04e5f7bf-e6a2-49f5-8f53-8de2237cae18
 
@@ -13,7 +13,7 @@ Venha mergulhar no mundo da programação com Python! Atualmente Python é uma d
 2 desafios de código
 0 lives
 
-## Módulo I - Fundamentos de Python (8 atividades)
+## Módulo I - Fundamentos de Python (8 atividades) - OK
 * Ambiente de Desenvolvimento e Primeiros Passos com Python (Básico, 1h)
 * Conhecendo a Linguagem de Programação Python (Básico, 2h)
 * Tipos de Operadores com Python (Básico, 2h)
