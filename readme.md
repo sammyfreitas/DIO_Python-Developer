@@ -73,6 +73,7 @@ Venha mergulhar no mundo da programação com Python! Atualmente Python é uma d
 
 
 
+
 🤝 Contribuindo Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatilhar! 
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no meu github e na minha página de portfólio: [https://sammyfreitas.github.io/portfolioSite/](https://sammyfreitas.github.io/portfolioSite/) 
@@ -83,3 +84,7 @@ Venha mergulhar no mundo da programação com Python! Atualmente Python é uma d
 Emai
 
 <br>Se possível:  ⭐️ Star o projeto
+
+<img src=" ">
+
+
