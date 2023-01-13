@@ -69,3 +69,17 @@ Venha mergulhar no mundo da programação com Python! Atualmente Python é uma d
 * Desenvolvendo Rest APIs Com Python e Flask (Avançado, 5h)
 * Desenvolvimento Web com Python e Django (Avançado, 4h)
 * Desafio de projeto - PROJETO 8: Consumindo a API do Twitter com Python (Avançado, 2h)
+
+
+
+
+🤝 Contribuindo Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatilhar! 
+
+- 👨‍💻 Todos os meus projetos estão disponíveis no meu github e na minha página de portfólio: [https://sammyfreitas.github.io/portfolioSite/](https://sammyfreitas.github.io/portfolioSite/) 
+
+- 📫 Minha caixa de entrada está sempre aberta. Se tiver alguma pergunta ou apenas dar um oizinho, será um prazer conversar com você! Bora conversar? **tonysdefreitas@gmail.com**
+
+- 📄 Encontra meu curriculo e experiências no [https://sammyfreitas.github.io/portfolioSite/curriculo.html](https://sammyfreitas.github.io/portfolioSite/curriculo.html)
+Emai
+
+<br>Se possível:  ⭐️ Star o projeto
