@@ -2,6 +2,10 @@
 
 https://web.dio.me/track/04e5f7bf-e6a2-49f5-8f53-8de2237cae18
 
+<div align="center"><img height="200em" src="https://hermes.digitalinnovation.one/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png"/></div>
+
+
+
 Formação Python Developer
  Intermediário
 肋 64 hrs
